@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#W#",
+    "###"
+  ],
+  "key": {
+    "#": "minecraft:soul_sand",
+    "W": "minecraft:wither_skeleton_skull"
+  },
+  "result": {
+    "id": "minecraft:nether_star"
+  }
+}

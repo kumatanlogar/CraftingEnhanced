@@ -1,0 +1,13 @@
+{
+  "pack": {
+    "description": "§aCraftingEnhanced§r — adds recipes for uncraftable items like Totems, Beacons, Chainmail, and more. §7By kumatanlogar§r",,
+    "min_format": [
+      101,
+      1
+    ],
+    "max_format": [
+      101,
+      1
+    ]
+  }
+}

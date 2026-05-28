@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "ooo",
+    "DDD"
+  ],
+  "key": {
+    "#": "minecraft:obsidian",
+    "o": "minecraft:echo_shard",
+    "D": "minecraft:dragon_breath"
+  },
+  "result": {
+    "id": "minecraft:dragon_head"
+  }
+}
