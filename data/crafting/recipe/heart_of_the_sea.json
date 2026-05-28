@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#o#",
+    "oPo",
+    "#o#"
+  ],
+  "key": {
+    "#": "minecraft:prismarine_crystals",
+    "o": "minecraft:diamond",
+    "P": "minecraft:prismarine_shard"
+  },
+  "result": {
+    "id": "minecraft:heart_of_the_sea"
+  }
+}
